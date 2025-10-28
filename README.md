@@ -20,7 +20,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### amp
 
 - **Description**: CLI for Amp, an agentic coding tool in research preview from Sourcegraph
-- **Version**: 0.0.1761523314-gb5faa4
+- **Version**: 0.0.1761609709-g7e6816
 - **Source**: bytecode
 - **License**: unfree
 - **Homepage**: https://ampcode.com/
@@ -29,7 +29,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### backlog-md
 
 - **Description**: Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
-- **Version**: 1.17.4
+- **Version**: 1.18.0
 - **Source**: source
 - **License**: MIT
 - **Homepage**: https://github.com/MrLesk/Backlog.md
@@ -47,7 +47,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### claude-code
 
 - **Description**: Agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster
-- **Version**: 2.0.27
+- **Version**: 2.0.28
 - **Source**: source
 - **License**: unfree
 - **Homepage**: https://github.com/anthropics/claude-code
@@ -56,7 +56,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### claude-code-acp
 
 - **Description**: An ACP-compatible coding agent powered by the Claude Code SDK (TypeScript)
-- **Version**: 0.6.10
+- **Version**: 0.8.0
 - **Source**: source
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/zed-industries/claude-code-acp
@@ -74,7 +74,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### claude-desktop
 
 - **Description**: Claude Desktop - AI assistant from Anthropic
-- **Version**: 0.14.4
+- **Version**: 0.14.7
 - **Source**: binary
 - **License**: unfree
 - **Homepage**: https://claude.ai
@@ -92,7 +92,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### code
 
 - **Description**: Fork of codex. Orchestrate agents from OpenAI, Claude, Gemini or any provider.
-- **Version**: 0.4.0
+- **Version**: 0.4.3
 - **Source**: source
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/just-every/code/
@@ -119,7 +119,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### codex-acp
 
 - **Description**: An ACP-compatible coding agent powered by Codex
-- **Version**: 0.3.9
+- **Version**: 0.3.10
 - **Source**: source
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/zed-industries/codex-acp
@@ -137,7 +137,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### crush
 
 - **Description**: The glamourous AI coding agent for your favourite terminal
-- **Version**: 0.12.3
+- **Version**: 0.13.0
 - **Source**: source
 - **License**: MIT
 - **Homepage**: https://github.com/charmbracelet/crush
@@ -218,7 +218,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### qwen-code
 
 - **Description**: Command-line AI workflow tool for Qwen3-Coder models
-- **Version**: 0.0.14
+- **Version**: 0.1.0
 - **Source**: bytecode
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/QwenLM/qwen-code
