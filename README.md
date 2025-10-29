@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/nix-ai-tools-banner--dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="docs/nix-ai-tools-banner--white.svg">
-  <img alt="nix-ai-tools" src="docs/nix-ai-tools-banner--white.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/numtide/nix-ai-tools/releases/download/assets/nix-ai-tools-banner--dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/numtide/nix-ai-tools/releases/download/assets/nix-ai-tools-banner--white.svg">
+  <img alt="nix-ai-tools" src="https://github.com/numtide/nix-ai-tools/releases/download/assets/nix-ai-tools-banner--white.svg">
 </picture>
 
 [![Mentioned in Awesome Gemini CLI](https://awesome.re/mentioned-badge.svg)](https://github.com/Piebald-AI/awesome-gemini-cli)
@@ -20,7 +20,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### amp
 
 - **Description**: CLI for Amp, an agentic coding tool in research preview from Sourcegraph
-- **Version**: 0.0.1761609709-g7e6816
+- **Version**: 0.0.1761696104-g382fd7
 - **Source**: bytecode
 - **License**: unfree
 - **Homepage**: https://ampcode.com/
@@ -74,7 +74,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### claude-desktop
 
 - **Description**: Claude Desktop - AI assistant from Anthropic
-- **Version**: 0.14.7
+- **Version**: 0.14.10
 - **Source**: binary
 - **License**: unfree
 - **Homepage**: https://claude.ai
@@ -137,7 +137,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### crush
 
 - **Description**: The glamourous AI coding agent for your favourite terminal
-- **Version**: 0.13.0
+- **Version**: 0.13.3
 - **Source**: source
 - **License**: MIT
 - **Homepage**: https://github.com/charmbracelet/crush
@@ -161,10 +161,19 @@ This repository uses GitHub Actions to automatically update all packages and fla
 - **Homepage**: https://factory.ai
 - **Usage**: `nix run .#droid -- --help`
 
+#### eca
+
+- **Description**: Editor Code Assistant (ECA) - AI pair programming capabilities agnostic of editor
+- **Version**: 0.74.0
+- **Source**: unknown
+- **License**: Apache-2.0
+- **Homepage**: https://github.com/editor-code-assistant/eca
+- **Usage**: `nix run .#eca -- --help`
+
 #### forge
 
 - **Description**: AI-Enhanced Terminal Development Environment - A comprehensive coding agent that integrates AI capabilities with your development environment
-- **Version**: 1.0.0
+- **Version**: 1.1.0
 - **Source**: binary
 - **License**: MIT
 - **Homepage**: https://github.com/antinomyhq/forge
@@ -173,7 +182,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### gemini-cli
 
 - **Description**: AI agent that brings the power of Gemini directly into your terminal
-- **Version**: 0.10.0
+- **Version**: 0.11.0
 - **Source**: source
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/google-gemini/gemini-cli
@@ -182,7 +191,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### goose-cli
 
 - **Description**: CLI for Goose - a local, extensible, open source AI agent that automates engineering tasks
-- **Version**: 1.12.0
+- **Version**: 1.12.1
 - **Source**: binary
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/block/goose
@@ -200,7 +209,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### nanocoder
 
 - **Description**: A beautiful local-first coding agent running in your terminal - built by the community for the community ⚒
-- **Version**: 1.14.0
+- **Version**: 1.14.1
 - **Source**: source
 - **License**: MIT
 - **Homepage**: https://github.com/Mote-Software/nanocoder
@@ -209,7 +218,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### opencode
 
 - **Description**: AI coding agent built for the terminal
-- **Version**: 0.15.18
+- **Version**: 0.15.19
 - **Source**: unknown
 - **License**: MIT
 - **Homepage**: https://github.com/sst/opencode
@@ -223,6 +232,15 @@ This repository uses GitHub Actions to automatically update all packages and fla
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/QwenLM/qwen-code
 - **Usage**: `nix run .#qwen-code -- --help`
+
+#### spec-kit
+
+- **Description**: Specify CLI, part of GitHub Spec Kit. A tool to bootstrap your projects for Spec-Driven Development (SDD)
+- **Version**: 0.0.72
+- **Source**: source
+- **License**: MIT
+- **Homepage**: https://github.com/github/spec-kit
+- **Usage**: `nix run .#spec-kit -- --help`
 
 <!-- END mdsh -->
 
