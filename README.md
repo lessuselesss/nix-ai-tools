@@ -20,7 +20,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### amp
 
 - **Description**: CLI for Amp, an agentic coding tool in research preview from Sourcegraph
-- **Version**: 0.0.1761696104-g382fd7
+- **Version**: 0.0.1761782504-g670405
 - **Source**: bytecode
 - **License**: unfree
 - **Homepage**: https://ampcode.com/
@@ -29,7 +29,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### backlog-md
 
 - **Description**: Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
-- **Version**: 1.18.0
+- **Version**: 1.18.3
 - **Source**: source
 - **License**: MIT
 - **Homepage**: https://github.com/MrLesk/Backlog.md
@@ -47,7 +47,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### claude-code
 
 - **Description**: Agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster
-- **Version**: 2.0.28
+- **Version**: 2.0.29
 - **Source**: source
 - **License**: unfree
 - **Homepage**: https://github.com/anthropics/claude-code
@@ -92,7 +92,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### code
 
 - **Description**: Fork of codex. Orchestrate agents from OpenAI, Claude, Gemini or any provider.
-- **Version**: 0.4.3
+- **Version**: 0.4.4
 - **Source**: source
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/just-every/code/
@@ -137,7 +137,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### crush
 
 - **Description**: The glamourous AI coding agent for your favourite terminal
-- **Version**: 0.13.3
+- **Version**: 0.13.5
 - **Source**: source
 - **License**: MIT
 - **Homepage**: https://github.com/charmbracelet/crush
@@ -146,7 +146,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### cursor-agent
 
 - **Description**: Cursor Agent - CLI tool for Cursor AI code editor
-- **Version**: 2025.10.22-f894c20
+- **Version**: 2025.10.28-0a91dc2
 - **Source**: binary
 - **License**: unfree
 - **Homepage**: https://cursor.com/
@@ -164,7 +164,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### eca
 
 - **Description**: Editor Code Assistant (ECA) - AI pair programming capabilities agnostic of editor
-- **Version**: 0.74.0
+- **Version**: 0.75.1
 - **Source**: unknown
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/editor-code-assistant/eca
@@ -218,7 +218,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### opencode
 
 - **Description**: AI coding agent built for the terminal
-- **Version**: 0.15.19
+- **Version**: 0.15.23
 - **Source**: unknown
 - **License**: MIT
 - **Homepage**: https://github.com/sst/opencode
@@ -227,7 +227,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### qwen-code
 
 - **Description**: Command-line AI workflow tool for Qwen3-Coder models
-- **Version**: 0.1.0
+- **Version**: 0.1.1
 - **Source**: bytecode
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/QwenLM/qwen-code
