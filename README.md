@@ -20,11 +20,11 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### amp
 
 - **Description**: CLI for Amp, an agentic coding tool in research preview from Sourcegraph
-- **Version**: 0.0.1761868901-gb9e977
+- **Version**: 0.0.1761955299-g991a67
 - **Source**: bytecode
 - **License**: unfree
 - **Homepage**: https://ampcode.com/
-- **Usage**: `nix run .#amp -- --help`
+- **Usage**: `nix run github:numtide/nix-ai-tools#amp -- --help`
 
 #### backlog-md
 
@@ -33,7 +33,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 - **Source**: source
 - **License**: MIT
 - **Homepage**: https://github.com/MrLesk/Backlog.md
-- **Usage**: `nix run .#backlog-md -- --help`
+- **Usage**: `nix run github:numtide/nix-ai-tools#backlog-md -- --help`
 
 #### catnip
 
@@ -42,25 +42,25 @@ This repository uses GitHub Actions to automatically update all packages and fla
 - **Source**: binary
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/wandb/catnip
-- **Usage**: `nix run .#catnip -- --help`
+- **Usage**: `nix run github:numtide/nix-ai-tools#catnip -- --help`
 
 #### claude-code
 
 - **Description**: Agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster
-- **Version**: 2.0.30
+- **Version**: 2.0.31
 - **Source**: source
 - **License**: unfree
 - **Homepage**: https://github.com/anthropics/claude-code
-- **Usage**: `nix run .#claude-code -- --help`
+- **Usage**: `nix run github:numtide/nix-ai-tools#claude-code -- --help`
 
 #### claude-code-acp
 
 - **Description**: An ACP-compatible coding agent powered by the Claude Code SDK (TypeScript)
-- **Version**: 0.8.0
+- **Version**: 0.9.0
 - **Source**: source
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/zed-industries/claude-code-acp
-- **Usage**: `nix run .#claude-code-acp -- --help`
+- **Usage**: `nix run github:numtide/nix-ai-tools#claude-code-acp -- --help`
 
 #### claude-code-router
 
@@ -69,7 +69,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 - **Source**: bytecode
 - **License**: MIT
 - **Homepage**: https://github.com/musistudio/claude-code-router
-- **Usage**: `nix run .#claude-code-router -- --help`
+- **Usage**: `nix run github:numtide/nix-ai-tools#claude-code-router -- --help`
 
 #### claude-desktop
 
@@ -78,7 +78,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 - **Source**: binary
 - **License**: unfree
 - **Homepage**: https://claude.ai
-- **Usage**: `nix run .#claude-desktop -- --help`
+- **Usage**: `nix run github:numtide/nix-ai-tools#claude-desktop -- --help`
 
 #### claudebox
 
@@ -87,7 +87,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 - **Source**: source
 - **License**: Check package
 - **Homepage**: https://github.com/numtide/nix-ai-tools/tree/main/packages/claudebox
-- **Usage**: `nix run .#claudebox -- --help`
+- **Usage**: `nix run github:numtide/nix-ai-tools#claudebox -- --help`
 
 #### code
 
@@ -96,7 +96,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 - **Source**: source
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/just-every/code/
-- **Usage**: `nix run .#code -- --help`
+- **Usage**: `nix run github:numtide/nix-ai-tools#code -- --help`
 
 #### coderabbit-cli
 
@@ -105,7 +105,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 - **Source**: binary
 - **License**: unfree
 - **Homepage**: https://coderabbit.ai
-- **Usage**: `nix run .#coderabbit-cli -- --help`
+- **Usage**: `nix run github:numtide/nix-ai-tools#coderabbit-cli -- --help`
 
 #### codex
 
@@ -114,16 +114,16 @@ This repository uses GitHub Actions to automatically update all packages and fla
 - **Source**: source
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/openai/codex
-- **Usage**: `nix run .#codex -- --help`
+- **Usage**: `nix run github:numtide/nix-ai-tools#codex -- --help`
 
 #### codex-acp
 
 - **Description**: An ACP-compatible coding agent powered by Codex
-- **Version**: 0.3.10
+- **Version**: 0.3.11
 - **Source**: source
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/zed-industries/codex-acp
-- **Usage**: `nix run .#codex-acp -- --help`
+- **Usage**: `nix run github:numtide/nix-ai-tools#codex-acp -- --help`
 
 #### copilot-cli
 
@@ -132,16 +132,16 @@ This repository uses GitHub Actions to automatically update all packages and fla
 - **Source**: bytecode
 - **License**: unfree
 - **Homepage**: https://github.com/github/copilot-cli
-- **Usage**: `nix run .#copilot-cli -- --help`
+- **Usage**: `nix run github:numtide/nix-ai-tools#copilot-cli -- --help`
 
 #### crush
 
 - **Description**: The glamourous AI coding agent for your favourite terminal
-- **Version**: 0.13.6
+- **Version**: 0.13.7
 - **Source**: source
 - **License**: MIT
 - **Homepage**: https://github.com/charmbracelet/crush
-- **Usage**: `nix run .#crush -- --help`
+- **Usage**: `nix run github:numtide/nix-ai-tools#crush -- --help`
 
 #### cursor-agent
 
@@ -150,25 +150,33 @@ This repository uses GitHub Actions to automatically update all packages and fla
 - **Source**: binary
 - **License**: unfree
 - **Homepage**: https://cursor.com/
-- **Usage**: `nix run .#cursor-agent -- --help`
+- **Usage**: `nix run github:numtide/nix-ai-tools#cursor-agent -- --help`
+
+#### darwinOpenptyHook
+
+- **Description**: No description available
+- **Version**: unknown
+- **Source**: unknown
+- **License**: Check package
+- **Usage**: `nix run github:numtide/nix-ai-tools#darwinOpenptyHook -- --help`
 
 #### droid
 
 - **Description**: Factory AI's Droid - AI-powered development agent for your terminal
-- **Version**: 0.22.6
+- **Version**: 0.22.9
 - **Source**: binary
 - **License**: unfree
 - **Homepage**: https://factory.ai
-- **Usage**: `nix run .#droid -- --help`
+- **Usage**: `nix run github:numtide/nix-ai-tools#droid -- --help`
 
 #### eca
 
 - **Description**: Editor Code Assistant (ECA) - AI pair programming capabilities agnostic of editor
-- **Version**: 0.75.2
+- **Version**: 0.75.4
 - **Source**: unknown
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/editor-code-assistant/eca
-- **Usage**: `nix run .#eca -- --help`
+- **Usage**: `nix run github:numtide/nix-ai-tools#eca -- --help`
 
 #### forge
 
@@ -177,7 +185,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 - **Source**: binary
 - **License**: MIT
 - **Homepage**: https://github.com/antinomyhq/forge
-- **Usage**: `nix run .#forge -- --help`
+- **Usage**: `nix run github:numtide/nix-ai-tools#forge -- --help`
 
 #### gemini-cli
 
@@ -186,7 +194,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 - **Source**: source
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/google-gemini/gemini-cli
-- **Usage**: `nix run .#gemini-cli -- --help`
+- **Usage**: `nix run github:numtide/nix-ai-tools#gemini-cli -- --help`
 
 #### goose-cli
 
@@ -195,7 +203,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 - **Source**: binary
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/block/goose
-- **Usage**: `nix run .#goose-cli -- --help`
+- **Usage**: `nix run github:numtide/nix-ai-tools#goose-cli -- --help`
 
 #### groq-code-cli
 
@@ -204,7 +212,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 - **Source**: source
 - **License**: MIT
 - **Homepage**: https://github.com/build-with-groq/groq-code-cli
-- **Usage**: `nix run .#groq-code-cli -- --help`
+- **Usage**: `nix run github:numtide/nix-ai-tools#groq-code-cli -- --help`
 
 #### nanocoder
 
@@ -213,25 +221,25 @@ This repository uses GitHub Actions to automatically update all packages and fla
 - **Source**: source
 - **License**: MIT
 - **Homepage**: https://github.com/Mote-Software/nanocoder
-- **Usage**: `nix run .#nanocoder -- --help`
+- **Usage**: `nix run github:numtide/nix-ai-tools#nanocoder -- --help`
 
 #### opencode
 
 - **Description**: AI coding agent built for the terminal
-- **Version**: 0.15.29
+- **Version**: 0.15.30
 - **Source**: unknown
 - **License**: MIT
 - **Homepage**: https://github.com/sst/opencode
-- **Usage**: `nix run .#opencode -- --help`
+- **Usage**: `nix run github:numtide/nix-ai-tools#opencode -- --help`
 
 #### qwen-code
 
 - **Description**: Command-line AI workflow tool for Qwen3-Coder models
-- **Version**: 0.1.1
-- **Source**: bytecode
+- **Version**: 0.1.2
+- **Source**: source
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/QwenLM/qwen-code
-- **Usage**: `nix run .#qwen-code -- --help`
+- **Usage**: `nix run github:numtide/nix-ai-tools#qwen-code -- --help`
 
 #### spec-kit
 
@@ -240,7 +248,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 - **Source**: source
 - **License**: MIT
 - **Homepage**: https://github.com/github/spec-kit
-- **Usage**: `nix run .#spec-kit -- --help`
+- **Usage**: `nix run github:numtide/nix-ai-tools#spec-kit -- --help`
 
 <!-- END mdsh -->
 
