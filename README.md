@@ -20,7 +20,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### amp
 
 - **Description**: CLI for Amp, an agentic coding tool in research preview from Sourcegraph
-- **Version**: 0.0.1762214500-ge4fc77
+- **Version**: 0.0.1762301845-g5a2dfd
 - **Source**: bytecode
 - **License**: unfree
 - **Homepage**: https://ampcode.com/
@@ -47,7 +47,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### claude-code
 
 - **Description**: Agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster
-- **Version**: 2.0.32
+- **Version**: 2.0.33
 - **Source**: source
 - **License**: unfree
 - **Homepage**: https://github.com/anthropics/claude-code
@@ -56,7 +56,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### claude-code-acp
 
 - **Description**: An ACP-compatible coding agent powered by the Claude Code SDK (TypeScript)
-- **Version**: 0.9.0
+- **Version**: 0.10.0
 - **Source**: source
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/zed-industries/claude-code-acp
@@ -110,7 +110,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### codex
 
 - **Description**: OpenAI Codex CLI - a coding agent that runs locally on your computer
-- **Version**: 0.53.0
+- **Version**: 0.55.0
 - **Source**: source
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/openai/codex
@@ -119,7 +119,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### codex-acp
 
 - **Description**: An ACP-compatible coding agent powered by Codex
-- **Version**: 0.3.12
+- **Version**: 0.3.13
 - **Source**: source
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/zed-industries/codex-acp
@@ -137,7 +137,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### crush
 
 - **Description**: The glamourous AI coding agent for your favourite terminal
-- **Version**: 0.13.7
+- **Version**: 0.14.0
 - **Source**: source
 - **License**: MIT
 - **Homepage**: https://github.com/charmbracelet/crush
@@ -163,7 +163,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### droid
 
 - **Description**: Factory AI's Droid - AI-powered development agent for your terminal
-- **Version**: 0.22.9
+- **Version**: 0.22.10
 - **Source**: binary
 - **License**: unfree
 - **Homepage**: https://factory.ai
@@ -172,7 +172,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### eca
 
 - **Description**: Editor Code Assistant (ECA) - AI pair programming capabilities agnostic of editor
-- **Version**: 0.76.0
+- **Version**: 0.77.0
 - **Source**: unknown
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/editor-code-assistant/eca
@@ -181,7 +181,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### forge
 
 - **Description**: AI-Enhanced Terminal Development Environment - A comprehensive coding agent that integrates AI capabilities with your development environment
-- **Version**: 1.2.0
+- **Version**: 1.3.0
 - **Source**: binary
 - **License**: MIT
 - **Homepage**: https://github.com/antinomyhq/forge
@@ -190,7 +190,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### gemini-cli
 
 - **Description**: AI agent that brings the power of Gemini directly into your terminal
-- **Version**: 0.11.3
+- **Version**: 0.12.0
 - **Source**: source
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/google-gemini/gemini-cli
@@ -217,7 +217,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### nanocoder
 
 - **Description**: A beautiful local-first coding agent running in your terminal - built by the community for the community ⚒
-- **Version**: 1.14.2
+- **Version**: 1.14.3
 - **Source**: source
 - **License**: MIT
 - **Homepage**: https://github.com/Mote-Software/nanocoder
@@ -235,7 +235,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### qwen-code
 
 - **Description**: Command-line AI workflow tool for Qwen3-Coder models
-- **Version**: 0.1.2
+- **Version**: 0.1.3
 - **Source**: source
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/QwenLM/qwen-code
