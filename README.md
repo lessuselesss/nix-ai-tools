@@ -20,7 +20,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### amp
 
 - **Description**: CLI for Amp, an agentic coding tool in research preview from Sourcegraph
-- **Version**: 0.0.1762646500-gac8d42
+- **Version**: 0.0.1762732906-g989d54
 - **Source**: bytecode
 - **License**: unfree
 - **Homepage**: https://ampcode.com/
@@ -111,7 +111,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### codex
 
 - **Description**: OpenAI Codex CLI - a coding agent that runs locally on your computer
-- **Version**: 0.56.0
+- **Version**: 0.57.0
 - **Source**: source
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/openai/codex
@@ -174,7 +174,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### eca
 
 - **Description**: Editor Code Assistant (ECA) - AI pair programming capabilities agnostic of editor
-- **Version**: 0.78.0
+- **Version**: 0.78.1
 - **Source**: unknown
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/editor-code-assistant/eca
@@ -220,7 +220,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### nanocoder
 
 - **Description**: A beautiful local-first coding agent running in your terminal - built by the community for the community ⚒
-- **Version**: 1.15.1
+- **Version**: 1.16.1
 - **Source**: source
 - **License**: MIT
 - **Homepage**: https://github.com/Mote-Software/nanocoder
