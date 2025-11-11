@@ -20,7 +20,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### amp
 
 - **Description**: CLI for Amp, an agentic coding tool in research preview from Sourcegraph
-- **Version**: 0.0.1762732906-g989d54
+- **Version**: 0.0.1762819311-g5cca1b
 - **Source**: bytecode
 - **License**: unfree
 - **Homepage**: https://ampcode.com/
@@ -47,7 +47,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### claude-code
 
 - **Description**: Agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster
-- **Version**: 2.0.36
+- **Version**: 2.0.37
 - **Source**: source
 - **License**: unfree
 - **Homepage**: https://github.com/anthropics/claude-code
@@ -120,7 +120,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### codex-acp
 
 - **Description**: An ACP-compatible coding agent powered by Codex
-- **Version**: 0.3.14
+- **Version**: 0.3.15
 - **Source**: source
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/zed-industries/codex-acp
@@ -165,7 +165,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### droid
 
 - **Description**: Factory AI's Droid - AI-powered development agent for your terminal
-- **Version**: 0.22.14
+- **Version**: 0.23.0
 - **Source**: binary
 - **License**: unfree
 - **Homepage**: https://factory.ai
@@ -202,7 +202,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### goose-cli
 
 - **Description**: CLI for Goose - a local, extensible, open source AI agent that automates engineering tasks
-- **Version**: 1.13.1
+- **Version**: 1.13.2
 - **Source**: binary
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/block/goose
@@ -220,7 +220,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### nanocoder
 
 - **Description**: A beautiful local-first coding agent running in your terminal - built by the community for the community ⚒
-- **Version**: 1.16.1
+- **Version**: 1.16.2
 - **Source**: source
 - **License**: MIT
 - **Homepage**: https://github.com/Mote-Software/nanocoder
