@@ -20,7 +20,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### amp
 
 - **Description**: CLI for Amp, an agentic coding tool in research preview from Sourcegraph
-- **Version**: 0.0.1762905706-gf9470e
+- **Version**: 0.0.1762992102-g9474b0
 - **Source**: bytecode
 - **License**: unfree
 - **Homepage**: https://ampcode.com/
@@ -29,7 +29,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### backlog-md
 
 - **Description**: Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
-- **Version**: 1.18.5
+- **Version**: 1.19.0
 - **Source**: source
 - **License**: MIT
 - **Homepage**: https://github.com/MrLesk/Backlog.md
@@ -130,7 +130,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### copilot-cli
 
 - **Description**: GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
-- **Version**: 0.0.354
+- **Version**: 0.0.355
 - **Source**: bytecode
 - **License**: unfree
 - **Homepage**: https://github.com/github/copilot-cli
@@ -139,7 +139,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### crush
 
 - **Description**: The glamourous AI coding agent for your favourite terminal
-- **Version**: 0.16.1
+- **Version**: 0.17.0
 - **Source**: source
 - **License**: MIT
 - **Homepage**: https://github.com/charmbracelet/crush
@@ -165,7 +165,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### droid
 
 - **Description**: Factory AI's Droid - AI-powered development agent for your terminal
-- **Version**: 0.24.0
+- **Version**: 0.25.1
 - **Source**: binary
 - **License**: unfree
 - **Homepage**: https://factory.ai
@@ -174,7 +174,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### eca
 
 - **Description**: Editor Code Assistant (ECA) - AI pair programming capabilities agnostic of editor
-- **Version**: 0.78.1
+- **Version**: 0.78.2
 - **Source**: unknown
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/editor-code-assistant/eca
@@ -220,7 +220,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### nanocoder
 
 - **Description**: A beautiful local-first coding agent running in your terminal - built by the community for the community ⚒
-- **Version**: 1.16.3
+- **Version**: 1.16.4
 - **Source**: source
 - **License**: MIT
 - **Homepage**: https://github.com/Mote-Software/nanocoder
