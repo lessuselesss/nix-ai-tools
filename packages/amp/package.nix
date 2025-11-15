@@ -3,20 +3,19 @@
   buildNpmPackage,
   fetchurl,
   fetchNpmDeps,
-  nodejs_22,
   ripgrep,
   runCommand,
 }:
 
 let
-  version = "0.0.1763078504-g7866a7";
+  version = "0.0.1763164900-gcd6966";
   # First, create a source with package-lock.json included
   srcWithLock = runCommand "amp-src-with-lock" { } ''
     mkdir -p $out
     tar -xzf ${
       fetchurl {
-        url = "https://registry.npmjs.org/@sourcegraph/amp/-/amp-0.0.1763078504-g7866a7.tgz";
-        hash = "sha256-AdxLTIqtRIKQjFNXgj5aEMTt7+2gekY4we5MZNizDKI=";
+        url = "https://registry.npmjs.org/@sourcegraph/amp/-/amp-0.0.1763164900-gcd6966.tgz";
+        hash = "sha256-z09loinzdlpZ2uMYmPGrz30QuxA+UcrOaxcITXB3D8Q=";
       }
     } -C $out --strip-components=1
     cp ${./package-lock.json} $out/package-lock.json
@@ -30,13 +29,11 @@ buildNpmPackage rec {
 
   npmDeps = fetchNpmDeps {
     inherit src;
-    hash = "sha256-UeUDsJJy0Qo6ZyexxFpQeDAomOMBCAD27ql/FI9ShgA=";
+    hash = "sha256-/4dwng9AedP0+LRnGHhrrGRdAy4RQoCP8Dtyf0BqXWE=";
   };
 
   # The package from npm is already built
   dontNpmBuild = true;
-
-  nodejs = nodejs_22;
 
   postInstall = ''
     wrapProgram $out/bin/amp \

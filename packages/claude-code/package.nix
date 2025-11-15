@@ -2,22 +2,19 @@
   lib,
   buildNpmPackage,
   fetchzip,
-  nodejs_20,
   makeWrapper,
 }:
 
 buildNpmPackage rec {
   pname = "claude-code";
-  version = "2.0.37";
-
-  nodejs = nodejs_20; # required for sandboxed Nix builds on Darwin
+  version = "2.0.42";
 
   src = fetchzip {
     url = "https://registry.npmjs.org/@anthropic-ai/claude-code/-/claude-code-${version}.tgz";
-    hash = "sha256-x4nHkwTE6qcB2PH+WPC0VyJTGeV6VTzeiiAsiQWChoo=";
+    hash = "sha256-Xn1h9Phw4FLrF0EfrY5MLA0RnOuA6Dk+PWqP7fN1DUU=";
   };
 
-  npmDepsHash = "sha256-ncnIZlKYEUouPSKpRUvSNKabuNZusZ2+CSZf2q0DcPk=";
+  npmDepsHash = "sha256-uQuw/aqY5/g9++IJGUO8t5JIUChvMTRvmyGe0qqMMqQ=";
 
   nativeBuildInputs = [ makeWrapper ];
 

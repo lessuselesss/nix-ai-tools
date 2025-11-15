@@ -20,7 +20,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### amp
 
 - **Description**: CLI for Amp, an agentic coding tool in research preview from Sourcegraph
-- **Version**: 0.0.1763078504-g7866a7
+- **Version**: 0.0.1763164900-gcd6966
 - **Source**: bytecode
 - **License**: unfree
 - **Homepage**: https://ampcode.com/
@@ -29,7 +29,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### backlog-md
 
 - **Description**: Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
-- **Version**: 1.19.0
+- **Version**: 1.20.0
 - **Source**: source
 - **License**: MIT
 - **Homepage**: https://github.com/MrLesk/Backlog.md
@@ -47,7 +47,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### claude-code
 
 - **Description**: Agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster
-- **Version**: 2.0.37
+- **Version**: 2.0.42
 - **Source**: source
 - **License**: unfree
 - **Homepage**: https://github.com/anthropics/claude-code
@@ -56,7 +56,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### claude-code-acp
 
 - **Description**: An ACP-compatible coding agent powered by the Claude Code SDK (TypeScript)
-- **Version**: 0.10.2
+- **Version**: 0.10.3
 - **Source**: source
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/zed-industries/claude-code-acp
@@ -93,7 +93,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### code
 
 - **Description**: Fork of codex. Orchestrate agents from OpenAI, Claude, Gemini or any provider.
-- **Version**: 0.4.13
+- **Version**: 0.4.15
 - **Source**: source
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/just-every/code/
@@ -111,7 +111,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### codex
 
 - **Description**: OpenAI Codex CLI - a coding agent that runs locally on your computer
-- **Version**: 0.57.0
+- **Version**: 0.58.0
 - **Source**: source
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/openai/codex
@@ -120,7 +120,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### codex-acp
 
 - **Description**: An ACP-compatible coding agent powered by Codex
-- **Version**: 0.3.15
+- **Version**: 0.4.0
 - **Source**: source
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/zed-industries/codex-acp
@@ -130,7 +130,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### copilot-cli
 
 - **Description**: GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
-- **Version**: 0.0.357
+- **Version**: 0.0.358
 - **Source**: bytecode
 - **License**: unfree
 - **Homepage**: https://github.com/github/copilot-cli
@@ -165,7 +165,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### droid
 
 - **Description**: Factory AI's Droid - AI-powered development agent for your terminal
-- **Version**: 0.25.2
+- **Version**: 0.26.1
 - **Source**: binary
 - **License**: unfree
 - **Homepage**: https://factory.ai
@@ -174,7 +174,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### eca
 
 - **Description**: Editor Code Assistant (ECA) - AI pair programming capabilities agnostic of editor
-- **Version**: 0.78.2
+- **Version**: 0.78.4
 - **Source**: unknown
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/editor-code-assistant/eca
@@ -193,7 +193,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### gemini-cli
 
 - **Description**: AI agent that brings the power of Gemini directly into your terminal
-- **Version**: 0.14.0
+- **Version**: 0.15.1
 - **Source**: source
 - **License**: Apache-2.0
 - **Homepage**: https://github.com/google-gemini/gemini-cli
@@ -211,11 +211,20 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### groq-code-cli
 
 - **Description**: A highly customizable, lightweight, and open-source coding CLI powered by Groq for instant iteration
-- **Version**: 1.0.2-unstable-2025-09-05
+- **Version**: 0-unstable-2025-09-05
 - **Source**: source
 - **License**: MIT
 - **Homepage**: https://github.com/build-with-groq/groq-code-cli
 - **Usage**: `nix run github:numtide/nix-ai-tools#groq-code-cli -- --help`
+
+#### kilocode-cli
+
+- **Description**: The open-source AI coding agent. Now available in your terminal.
+- **Version**: 0.4.2
+- **Source**: unknown
+- **License**: Apache-2.0
+- **Homepage**: https://kilocode.ai/cli
+- **Usage**: `nix run github:numtide/nix-ai-tools#kilocode-cli -- --help`
 
 #### nanocoder
 
@@ -229,7 +238,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### opencode
 
 - **Description**: AI coding agent built for the terminal
-- **Version**: 1.0.62
+- **Version**: 1.0.65
 - **Source**: unknown
 - **License**: MIT
 - **Homepage**: https://github.com/sst/opencode
@@ -247,7 +256,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### spec-kit
 
 - **Description**: Specify CLI, part of GitHub Spec Kit. A tool to bootstrap your projects for Spec-Driven Development (SDD)
-- **Version**: 0.0.79
+- **Version**: 0.0.85
 - **Source**: source
 - **License**: MIT
 - **Homepage**: https://github.com/github/spec-kit
