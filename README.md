@@ -20,7 +20,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### amp
 
 - **Description**: CLI for Amp, an agentic coding tool in research preview from Sourcegraph
-- **Version**: 0.0.1763251313-g95b89a
+- **Version**: 0.0.1763337703-g3f0024
 - **Source**: bytecode
 - **License**: unfree
 - **Homepage**: https://ampcode.com/
@@ -65,7 +65,7 @@ This repository uses GitHub Actions to automatically update all packages and fla
 #### claude-code-router
 
 - **Description**: Use Claude Code without an Anthropics account and route it to another LLM provider
-- **Version**: 1.0.66
+- **Version**: 1.0.67
 - **Source**: bytecode
 - **License**: MIT
 - **Homepage**: https://github.com/musistudio/claude-code-router
