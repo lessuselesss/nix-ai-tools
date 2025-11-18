@@ -13,12 +13,12 @@
 
 stdenvNoCC.mkDerivation (finalAttrs: {
   pname = "opencode";
-  version = "1.0.65";
+  version = "1.0.68";
   src = fetchFromGitHub {
     owner = "sst";
     repo = "opencode";
     tag = "v${finalAttrs.version}";
-    hash = "sha256-lNgn2k8rOtPG6ZhHRU18H1B0mzfkGcQPR2IjEuoochQ=";
+    hash = "sha256-lG6OIi1yT9mqdzmMguUQ5xdIuuEoByVL2GPOVyIny0c=";
   };
 
   node_modules = stdenvNoCC.mkDerivation {
@@ -117,6 +117,10 @@ stdenvNoCC.mkDerivation (finalAttrs: {
     cp ${./bundle.ts} ./bundle.ts
     chmod +x ./bundle.ts
     bun run ./bundle.ts
+
+    # Fix WASM paths in worker.ts - use absolute paths to the installed location
+    substituteInPlace ./dist/worker.ts \
+      --replace-fail 'module2.exports = "../../../tree-sitter-' 'module2.exports = "'"$out"'/lib/opencode/dist/tree-sitter-'
 
     runHook postBuild
   '';
